@@ -25,3 +25,6 @@ p {
 h1 {
   color: #7c351bf8;
 }
+button:hover {
+  background-color: darkgoldenrod;
+  cursor: pointer;
