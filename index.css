@@ -1,0 +1,27 @@
+h2 {
+  color: #5d2802;
+  margin-bottom: 50px;
+}
+#top_text {
+  font-style: italic;
+  font-size: 15pt;
+  background-color: #f5f5dc;
+}
+.products {
+  padding: 25px;
+  margin-right: 50px;
+  margin-bottom: 20px;
+  border: 5px solid #ff0000;
+  background-color: #faebd7;
+}
+button {
+  color: #6b1919;
+  background-color: #dcdcdc;
+}
+p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 16pt;
+}
+h1 {
+  color: #7c351bf8;
+}
